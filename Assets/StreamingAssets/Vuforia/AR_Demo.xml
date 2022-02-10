@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Watchmen" size="0.200000 0.299759" />
+    <ImageTarget name="PXL_20220116_063403068" size="1.000000 1.333333" />
+    <ImageTarget name="the-prophet-book-cover" size="0.200000 0.288807" />
+    <ImageTarget name="Flowers" size="0.150000 0.112500" />
+  </Tracking>
+</QCARConfig>
